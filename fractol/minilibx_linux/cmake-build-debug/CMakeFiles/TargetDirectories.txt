@@ -1,0 +1,3 @@
+/home/psy/fractol/minilibx/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/psy/fractol/minilibx/cmake-build-debug/CMakeFiles/minilibx.dir
+/home/psy/fractol/minilibx/cmake-build-debug/CMakeFiles/edit_cache.dir
