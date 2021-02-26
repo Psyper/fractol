@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/psy/CLionProjects/fractol_gh/fractol/fractol.h
+stdio.h
+-
+minilibx_macos/mlx.h
+/home/psy/CLionProjects/fractol_gh/fractol/minilibx_macos/mlx.h
+string.h
+-
+unistd.h
+-
+stdlib.h
+-
+math.h
+-
+pthread.h
+-
+
+/home/psy/CLionProjects/fractol_gh/fractol/minilibx_macos/mlx.h
+
+/home/psy/CLionProjects/fractol_gh/fractol/threads.c
+fractol.h
+/home/psy/CLionProjects/fractol_gh/fractol/fractol.h
+
